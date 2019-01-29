@@ -1,4 +1,7 @@
 # Arduino Buton Uygulamasi
+Detaylı bilgi ve kod açıklamaları için https://sprcode.com/buton-uygulamasi/253/
+
+
 <h2>Malzeme Listesi</h2>
   <ul>
     <li>Arduino Uno</li>
