@@ -12,4 +12,6 @@
   
   
 <h2> Bağlantı Şeması </h2>
-![tek-buton](https://user-images.githubusercontent.com/47007407/51899778-c9571380-23c4-11e9-8dfe-983504f41481.png)
+
+
+![tek-buton](https://user-images.githubusercontent.com/47007407/51899852-ebe92c80-23c4-11e9-983b-afc97f29aea9.png)
