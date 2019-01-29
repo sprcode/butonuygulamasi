@@ -1,4 +1,4 @@
-# butonuygulamasi
+# Arduino Buton Uygulamasi
 <h2>Malzeme Listesi</h2>
   <ul>
     <li>Arduino Uno</li>
@@ -12,3 +12,4 @@
   
   
 <h2> Bağlantı Şeması </h2>
+![tek-buton](https://user-images.githubusercontent.com/47007407/51899778-c9571380-23c4-11e9-8dfe-983504f41481.png)
